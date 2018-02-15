@@ -1,0 +1,14 @@
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\bin\Debug\_EntityFramework.exe.config
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\bin\Debug\_EntityFramework.exe
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\bin\Debug\_EntityFramework.pdb
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\obj\Debug\_EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\obj\Debug\_EntityFramework.Properties.Resources.resources
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\obj\Debug\_EntityFramework.csproj.GenerateResource.Cache
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\obj\Debug\_EntityFramework.exe
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\obj\Debug\_EntityFramework.pdb
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\obj\Debug\_EntityFramework.Form1.resources
+C:\Users\HROCA\Desktop\PROYECTOS\_EntityFramework\_EntityFramework\obj\Debug\_EntityFramework.Form2.resources
